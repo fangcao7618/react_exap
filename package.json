@@ -1,0 +1,32 @@
+{
+  "name": "react-exap",
+  "version": "1.0.0",
+  "description": "react jsx node express react-native es6",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fangcao7618/react_exap.git"
+  },
+  "keywords": [
+    "git",
+    "react",
+    "jsx",
+    "node",
+    "express",
+    "react-native",
+    "es6"
+  ],
+  "author": "wfc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fangcao7618/react_exap/issues"
+  },
+  "homepage": "https://github.com/fangcao7618/react_exap#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
